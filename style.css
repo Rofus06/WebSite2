@@ -1,0 +1,87 @@
+#rubrik{ 
+        font-size: 5em;
+        font-family: 'Courier New', Courier, monospace;
+}
+#rubrik{
+    background-color: #32b743;
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-left:10%;
+    margin-right:10%;
+    padding-top: 20px;
+}
+.red-box{
+    border: 2px #32b743 solid;
+    border-radius: 5px;
+    background-color: rgb(213, 109, 11);
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.black-text{
+    font-family: 'franklin gothic medium', 'arial', 'sans-serif';
+    color: black;
+}
+.green-box{
+    background-color: #32b743;
+    border: 3px solid black ;
+    padding: 1%;
+    margin-right: 2%;
+    margin-left: 32%;
+    padding-right: 15%;
+}
+.black-box{
+    background-color: black;
+    border: 3px solid #32b06f;
+    padding: 2%;
+    margin-right: 32%;
+}
+.bakground{
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px solid black;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./img/showcase.jpg")
+}
+.rubrik{
+    background-color: rgb(83, 148, 252);
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 33px;
+}
+.text-px{
+    font-size: 22px;
+}
+.text-px{
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text-procent{
+    font-size: 200%;
+}
+.google-sofia{
+    font-family: 'sofia', Verdana, Tahoma;
+}
+h1{
+    font-family: 'Roboto', Verdana, Tahoma;
+}
+
+h2{
+    font-family: 'Island Moments', Verdana, Tahoma;
+    text-align: center;
+}
+p{
+    font-family: 'Hanalei Fill', Verdana, Tahoma;
+}
